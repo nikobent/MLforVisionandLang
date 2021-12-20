@@ -1,0 +1,8 @@
+Q7 (about linear activation functions):
+https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
+-Backpropagation not possible
+-With linear act functions we get a linear Regression model no matter how many layers or other parameters, which can't be used to describe complex problems.
+-Any "mapping" could be described by a deep neural network with NON-linear activation functions.
+
+Q9 :
+It has started to overfit. As we see the loss drops in all 12 epochs on the training set, but on the validation set it has plateaued after the 6-7 epoch and starts to get worse and worse by the end. 
